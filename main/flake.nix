@@ -9,7 +9,7 @@
   
   inputs.src-watch_for_files-main.flake = false;
   inputs.src-watch_for_files-main.owner = "hamidb80";
-  inputs.src-watch_for_files-main.ref   = "refs/heads/main";
+  inputs.src-watch_for_files-main.ref   = "main";
   inputs.src-watch_for_files-main.repo  = "watch_for_files";
   inputs.src-watch_for_files-main.type  = "github";
   
