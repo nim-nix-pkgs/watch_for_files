@@ -7,37 +7,8 @@
   "license": "MIT",
   "web": "https://github.com/hamidb80/watch_for_files",
   "refs": [
-    "refs/heads/main",
+    "fatal: unable to access 'https://github.com/hamidb80/watch_for_files/': Could not resolve host: github.com",
     ""
   ],
-  "heads": [
-    {
-      "name": "watch_for_files",
-      "version": "0.0.6",
-      "author": "hamidb80",
-      "desc": "cross-platform file watcher with database",
-      "license": "MIT",
-      "skipDirs": [],
-      "skipFiles": [],
-      "skipExt": [],
-      "installDirs": [],
-      "installFiles": [],
-      "installExt": [],
-      "requires": [
-        {
-          "name": "nim",
-          "str": ">= 1.5.1",
-          "ver": {
-            "kind": "verEqLater",
-            "ver": "1.5.1"
-          }
-        }
-      ],
-      "bin": [],
-      "binDir": "",
-      "srcDir": "src",
-      "backend": "c",
-      "ref": "refs/heads/main"
-    }
-  ]
+  "heads": []
 }
